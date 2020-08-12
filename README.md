@@ -1,6 +1,6 @@
 ### Howdy
 
- A developer on a mission to make computers do what I say. I discovered that once you know how to make them do one thing you find boring and repetative you start looking for all the things you can make them do ... How do I make it load the dishwasher? TO THE LAB!! <em>**dog chases after, wife shakes head **</em>
+ I am a developer on a mission to make computers do what I say. I discovered that once you know how to make them do one thing you find boring and repetative you start looking for all the things you can make them do ... How do I make it load the dishwasher? TO THE LAB!! <em>**dog chases after, wife shakes head **</em>
 
   All joking aside, I am a self-taught developer who is looking for ways to keep growing. I am a maker and in a former life I was a professional prop artisan. I've found that I get the same joy from getting a piece of software running as I do when I finish any other mind-expanding project. To paraphrase ABL Always be learning.
  
